@@ -689,7 +689,7 @@
             <textPath style="font-family: fantasy;" xlink:href="#partialPath" startOffset="12">
                 🌹Happy Women's Day
                 🌹.........................................................................................................................................🌹From
-                With Love 8/3!🌹
+                With Love 20/1010!🌹
             </textPath>
         </text>
 
@@ -1131,7 +1131,7 @@
         // chữ của thư bạn muốn gửi
         let indexTextContent = 0;
         let textLetterContent = document.querySelector('.contentLetter');
-        const textLetterP = "Hôm nay là ngày 08/03. Xin gửi lời chúc tới người tớ yêu thương nhất. Luôn vui vẻ, luôn hạnh phúc và luôn may mắn trong cuộc sống, ngày càng xinh đẹp. Xin gửi tất cả lời chúc tốt đẹp đến với cậu. Love You💗";
+        const textLetterP = "Hôm nay là ngày 20/10. on chúc mẹ luôn mạnh khỏe và hạnh phúc. Hãy luôn nở nụ cười để con có động lực vượt qua mọi khó khăn, thử thách trong cuộc sống nhé. Love You💗";
         let timoutTextLetterContent;
         function textCharLetterContent() {
             if (indexTextContent < textLetterP.length) {
